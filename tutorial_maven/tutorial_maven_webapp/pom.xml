@@ -4,8 +4,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <modelVersion>4.0.0</modelVersion>
 <parent>
 <artifactId>tutorial_maven</artifactId>
-<groupId>${parent.groupId}</groupId>
-<version>${parent.version}</version>
+<groupId>org.javahispano</groupId>
+<version>1.0</version>
 </parent>
 <groupId>org.javahispano</groupId>
 <artifactId>tutorial_maven_webapp</artifactId>
